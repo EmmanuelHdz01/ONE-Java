@@ -15,8 +15,21 @@ public class Main {
                 Matrix es una paradoja
                 La mejor pelicula del fin del milenio
                 Fue lanzada en: 
-                """ + fechaDeLanzamiento;
+                """ + fechaDeLanzamiento +
+                """
+                Esta pelicula cuenta con una nota de:
+                """ + notaDeLaPelicula;
 
         System.out.println(sinopsis);
+
+        //Casteo explicito
+
+        int clasificasion = (int) (media / 2);
+
+        System.out.println(clasificasion);
+
+
+
+
     }
 }
