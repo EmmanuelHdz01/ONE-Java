@@ -7,13 +7,19 @@ public class Evaluaciones {
 
         double nota = 0;
         double mediaEvaluaciones = 0;
+        double totalEvaluaciones = 0;
 
         while (nota != -1){
-            System.out.println("Escribe la nota que le darias a la pelicula Matrix");
+            System.out.println("Escribe la nota que le darias a la pelicula Matrix y escriba '-1' cuando quiera detenerlo");
             nota = teclado.nextDouble();
-            mediaEvaluaciones = mediaEvaluaciones + nota;
+
+            if (nota != -1) {
+                // mediaEvaluaciones = mediaEvaluaciones + nota;
+                mediaEvaluaciones += nota;
+                totalEvaluaciones++;
+            }
 
         }
-        System.out.println("La media de evaluaciones para Matrix es: " + mediaEvaluaciones / 3);
+        System.out.println("La media de evaluaciones para Matrix es: " + mediaEvaluaciones / totalEvaluaciones);
     }
 }
