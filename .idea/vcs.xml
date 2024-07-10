@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/AplicacionDeAudio" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/screenmatch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AplicacionDeAudio" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/screenmatch" vcs="svn" />
   </component>
 </project>

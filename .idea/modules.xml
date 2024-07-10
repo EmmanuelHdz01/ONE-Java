@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AplicacionDeAudio/AplicacionDeAudio.iml" filepath="$PROJECT_DIR$/AplicacionDeAudio/AplicacionDeAudio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ONE Java.iml" filepath="$PROJECT_DIR$/.idea/ONE Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenge-alura/challenge-alura.iml" filepath="$PROJECT_DIR$/challenge-alura/challenge-alura.iml" />
       <module fileurl="file://$PROJECT_DIR$/primerprograma/primerprograma.iml" filepath="$PROJECT_DIR$/primerprograma/primerprograma.iml" />
       <module fileurl="file://$PROJECT_DIR$/screen-match-3-Aula0/screen-match-3-Aula0.iml" filepath="$PROJECT_DIR$/screen-match-3-Aula0/screen-match-3-Aula0.iml" />
       <module fileurl="file://$PROJECT_DIR$/screenmatch/screenmatch.iml" filepath="$PROJECT_DIR$/screenmatch/screenmatch.iml" />
