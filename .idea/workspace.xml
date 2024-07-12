@@ -5,9 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a197864-2d0e-4c57-9582-58ee8a171006" name="Changes" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/ONE-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ONE-Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2047-screenmatch4-Aula0/src/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/2047-screenmatch4-Aula0/src/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2047-screenmatch4-Aula0/src/com/alura/screenmatch/modelos/TituloOmdb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenge-alura-conversor/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenge-alura-conversor/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenge-alura-conversor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenge-alura-conversor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenge-alura-conversor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenge-alura-conversor/challenge-alura-conversor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenge-alura-conversor/src/com/alura/conversor/Principal/Moneda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenge-alura-conversor/src/com/alura/conversor/Principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ONE-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ONE-Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2047-screenmatch4-Aula0/src/com/alura/screenmatch/calculos/CalculadoraDeTiempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/2047-screenmatch4-Aula0/src/com/alura/screenmatch/calculos/CalculadoraDeTiempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2047-screenmatch4-Aula0/src/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/2047-screenmatch4-Aula0/src/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2047-screenmatch4-Aula0/src/com/alura/screenmatch/principal/PrincipalConBusqueda.java" beforeDir="false" afterPath="$PROJECT_DIR$/2047-screenmatch4-Aula0/src/com/alura/screenmatch/principal/PrincipalConBusqueda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ONE-Java/com/alura/screenmatch/calculos/CalculadoraDeTiempo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ONE-Java/com/alura/screenmatch/calculos/CalculadoraDeTiempo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ONE-Java/com/alura/screenmatch/modelos/Titulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ONE-Java/com/alura/screenmatch/modelos/Titulo.class" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,33 +39,77 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2j4IfCGBWsVnodyG7aecm3HlFlm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Moneda.executor": "Run",
     "Application.Principal.executor": "Run",
+    "Application.PrincipalConBusqueda.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+<<<<<<< Updated upstream
     "last_opened_file_path": "C:/Users/soporte.pv/Documents/ONE/ONE-Java/2047-screenmatch4-Aula3-Fin",
+=======
+    "last_opened_file_path": "C:/Users/emman/Documents/ONE/ONE Java/Gson/gson-2.11.0.jar",
+>>>>>>> Stashed changes
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.PrincipalConBusqueda">
+    <configuration name="Moneda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alura.conversor.Principal.Moneda" />
+      <module name="ONE-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alura.conversor.Principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrincipalConBusqueda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alura.screenmatch.principal.PrincipalConBusqueda" />
+      <module name="ONE-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alura.screenmatch.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrincipalConBusqueda" />
+        <item itemvalue="Application.Moneda" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
